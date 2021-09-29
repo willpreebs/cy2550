@@ -1,0 +1,192 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 22:03 ?        00:00:04 /sbin/init splash
+root           2       0  0 22:03 ?        00:00:00 [kthreadd]
+root           3       2  0 22:03 ?        00:00:00 [rcu_gp]
+root           4       2  0 22:03 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 22:03 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           8       2  0 22:03 ?        00:00:00 [mm_percpu_wq]
+root           9       2  0 22:03 ?        00:00:00 [rcu_tasks_rude_]
+root          10       2  0 22:03 ?        00:00:00 [rcu_tasks_trace]
+root          11       2  0 22:03 ?        00:00:03 [ksoftirqd/0]
+root          12       2  0 22:03 ?        00:00:00 [rcu_sched]
+root          13       2  0 22:03 ?        00:00:00 [migration/0]
+root          14       2  0 22:03 ?        00:00:00 [idle_inject/0]
+root          16       2  0 22:03 ?        00:00:00 [cpuhp/0]
+root          17       2  0 22:03 ?        00:00:00 [kdevtmpfs]
+root          18       2  0 22:03 ?        00:00:00 [netns]
+root          19       2  0 22:03 ?        00:00:00 [inet_frag_wq]
+root          20       2  0 22:03 ?        00:00:00 [kauditd]
+root          21       2  0 22:03 ?        00:00:00 [khungtaskd]
+root          22       2  0 22:03 ?        00:00:00 [oom_reaper]
+root          23       2  0 22:03 ?        00:00:00 [writeback]
+root          24       2  0 22:03 ?        00:00:00 [kcompactd0]
+root          25       2  0 22:03 ?        00:00:00 [ksmd]
+root          26       2  0 22:03 ?        00:00:00 [khugepaged]
+root          72       2  0 22:03 ?        00:00:00 [kintegrityd]
+root          73       2  0 22:03 ?        00:00:00 [kblockd]
+root          74       2  0 22:03 ?        00:00:00 [blkcg_punt_bio]
+root          75       2  0 22:03 ?        00:00:00 [tpm_dev_wq]
+root          76       2  0 22:03 ?        00:00:00 [ata_sff]
+root          77       2  0 22:03 ?        00:00:00 [md]
+root          78       2  0 22:03 ?        00:00:00 [edac-poller]
+root          79       2  0 22:03 ?        00:00:00 [devfreq_wq]
+root          80       2  0 22:03 ?        00:00:00 [watchdogd]
+root          82       2  0 22:03 ?        00:00:02 [kworker/0:1H-kblockd]
+root          85       2  0 22:03 ?        00:00:00 [kswapd0]
+root          86       2  0 22:03 ?        00:00:00 [ecryptfs-kthrea]
+root          88       2  0 22:03 ?        00:00:00 [kthrotld]
+root          89       2  0 22:03 ?        00:00:00 [acpi_thermal_pm]
+root          90       2  0 22:03 ?        00:00:00 [scsi_eh_0]
+root          91       2  0 22:03 ?        00:00:00 [scsi_tmf_0]
+root          92       2  0 22:03 ?        00:00:00 [scsi_eh_1]
+root          93       2  0 22:03 ?        00:00:00 [scsi_tmf_1]
+root          95       2  0 22:03 ?        00:00:00 [vfio-irqfd-clea]
+root          96       2  0 22:03 ?        00:00:00 [ipv6_addrconf]
+root         106       2  0 22:03 ?        00:00:00 [kstrp]
+root         109       2  0 22:03 ?        00:00:00 [zswap-shrink]
+root         110       2  0 22:03 ?        00:00:00 [kworker/u3:0]
+root         115       2  0 22:03 ?        00:00:00 [charger_manager]
+root         159       2  0 22:03 ?        00:00:00 [scsi_eh_2]
+root         161       2  0 22:03 ?        00:00:00 [scsi_tmf_2]
+root         181       2  0 22:03 ?        00:00:00 [jbd2/sda5-8]
+root         182       2  0 22:03 ?        00:00:00 [ext4-rsv-conver]
+root         221       1  0 22:03 ?        00:00:00 /lib/systemd/systemd-journald
+root         242       1  0 22:03 ?        00:00:00 /lib/systemd/systemd-udevd
+root         244       2  0 22:03 ?        00:00:03 [kworker/0:4-cgroup_destroy]
+root         246       2  0 22:03 ?        00:00:00 [irq/18-vmwgfx]
+root         247       2  0 22:03 ?        00:00:00 [ttm_swap]
+root         249       2  0 22:03 ?        00:00:00 [card0-crtc0]
+root         250       2  0 22:03 ?        00:00:00 [card0-crtc1]
+root         251       2  0 22:03 ?        00:00:00 [card0-crtc2]
+root         252       2  0 22:03 ?        00:00:00 [loop0]
+root         253       2  0 22:03 ?        00:00:00 [card0-crtc3]
+root         254       2  0 22:03 ?        00:00:00 [card0-crtc4]
+root         255       2  0 22:03 ?        00:00:00 [card0-crtc5]
+root         256       2  0 22:03 ?        00:00:00 [card0-crtc6]
+root         257       2  0 22:03 ?        00:00:00 [card0-crtc7]
+root         260       2  0 22:03 ?        00:00:00 [loop1]
+root         261       2  0 22:03 ?        00:00:00 [loop2]
+root         262       2  0 22:03 ?        00:00:00 [loop3]
+root         267       2  0 22:03 ?        00:00:00 [loop4]
+systemd+     476       1  0 22:03 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     477       1  0 22:03 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         513       1  0 22:03 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         514       1  0 22:03 ?        00:00:00 /usr/sbin/acpid
+avahi        520       1  0 22:03 ?        00:00:00 avahi-daemon: running [willpriebe-VirtualBox.local]
+root         522       1  0 22:03 ?        00:00:00 /usr/sbin/cron -f
+root         523       1  0 22:03 ?        00:00:00 /usr/sbin/cupsd -l
+message+     524       1  0 22:03 ?        00:00:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         525       1  0 22:03 ?        00:00:01 /usr/sbin/NetworkManager --no-daemon
+root         534       1  0 22:03 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         537       1  0 22:03 ?        00:00:01 /usr/lib/policykit-1/polkitd --no-debug
+syslog       545       1  0 22:03 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         549       1  0 22:03 ?        00:00:00 /usr/libexec/switcheroo-control
+root         552       1  0 22:03 ?        00:00:00 /lib/systemd/systemd-logind
+root         553       1  0 22:03 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         556       1  0 22:03 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        571     520  0 22:03 ?        00:00:00 avahi-daemon: chroot helper
+root         592       1  0 22:03 ?        00:00:00 /usr/sbin/cups-browsed
+lp           593     523  0 22:03 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         596       1  0 22:03 ?        00:00:00 /usr/sbin/ModemManager --filter-policy=strict
+root         607       1  0 22:03 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         628       1  0 22:03 ?        00:00:00 /usr/sbin/gdm3
+whoopsie     669       1  0 22:03 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops     672       1  0 22:03 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     677       1  0 22:03 ?        00:00:00 /usr/sbin/kerneloops
+rtkit        717       1  0 22:03 ?        00:00:00 /usr/libexec/rtkit-daemon
+root         821       1  0 22:03 ?        00:00:00 /usr/lib/upower/upowerd
+colord      1066       1  0 22:04 ?        00:00:00 /usr/libexec/colord
+root        1190     628  0 22:04 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+root        1200       2  0 22:04 ?        00:00:00 [loop5]
+willpri+    1219       1  0 22:04 ?        00:00:00 /lib/systemd/systemd --user
+willpri+    1220    1219  0 22:04 ?        00:00:00 (sd-pam)
+root        1224       1  0 22:04 ?        00:00:13 /usr/lib/snapd/snapd
+willpri+    1234    1219  0 22:04 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+willpri+    1237    1219  0 22:04 ?        00:00:00 /usr/libexec/tracker-miner-fs
+willpri+    1239       1  0 22:04 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+willpri+    1243    1219  0 22:04 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+willpri+    1247    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfsd
+willpri+    1252    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+willpri+    1265    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+willpri+    1276    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+willpri+    1280    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+willpri+    1286    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+willpri+    1290    1219  0 22:04 ?        00:00:00 /usr/libexec/goa-daemon
+willpri+    1301    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+willpri+    1302    1219  0 22:04 ?        00:00:00 /usr/libexec/goa-identity-service
+willpri+    1320    1190  0 22:04 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+willpri+    1325    1320  1 22:04 tty2     00:00:32 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+willpri+    1343    1320  0 22:04 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+willpri+    1351    1219  0 22:04 ?        00:00:00 /usr/libexec/gvfsd-metadata
+willpri+    1429    1343  0 22:04 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+willpri+    1468    1219  0 22:04 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+willpri+    1474    1468  0 22:04 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+willpri+    1493    1219  0 22:04 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+willpri+    1502    1219  0 22:04 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+willpri+    1517    1219  2 22:04 ?        00:01:08 /usr/bin/gnome-shell
+willpri+    1548    1517  0 22:04 ?        00:00:00 ibus-daemon --panel disable --xim
+willpri+    1552    1548  0 22:04 ?        00:00:00 /usr/libexec/ibus-dconf
+willpri+    1553    1548  0 22:04 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+willpri+    1555    1219  0 22:04 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+willpri+    1557    1219  0 22:04 ?        00:00:00 /usr/libexec/ibus-portal
+willpri+    1570    1219  0 22:04 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+willpri+    1575    1219  0 22:04 ?        00:00:00 /usr/libexec/xdg-permission-store
+willpri+    1580    1219  0 22:04 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+willpri+    1587    1219  0 22:04 ?        00:00:00 /usr/libexec/evolution-source-registry
+willpri+    1596    1219  0 22:04 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+willpri+    1604    1219  0 22:04 ?        00:00:00 /usr/libexec/dconf-service
+willpri+    1607    1219  0 22:04 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+willpri+    1630    1219  0 22:04 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+willpri+    1631    1247  0 22:04 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+willpri+    1701    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+willpri+    1703    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-color
+willpri+    1709    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-datetime
+willpri+    1711    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-housekeeping
+willpri+    1712    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-keyboard
+willpri+    1717    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-media-keys
+willpri+    1719    1502  0 22:04 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+willpri+    1720    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-power
+willpri+    1721    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-print-notifications
+willpri+    1722    1502  0 22:04 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+willpri+    1726    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-rfkill
+willpri+    1729    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+willpri+    1740    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-sharing
+willpri+    1742    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-smartcard
+willpri+    1751    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-sound
+willpri+    1755    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-usb-protection
+willpri+    1759    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-wacom
+willpri+    1764    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-wwan
+willpri+    1765    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-xsettings
+willpri+    1802    1548  0 22:04 ?        00:00:00 /usr/libexec/ibus-engine-simple
+willpri+    1805    1219  0 22:04 ?        00:00:00 /usr/libexec/gsd-printer
+root        1870       2  0 22:04 ?        00:00:00 [loop6]
+root        2017       2  0 22:04 ?        00:00:00 [loop7]
+willpri+    2040    1502  0 22:05 ?        00:00:00 update-notifier
+willpri+    2155    1247  0 22:06 ?        00:00:00 /usr/libexec/gvfsd-http --spawner :1.3 /org/gtk/gvfs/exec_spaw/1
+root        2526       1  0 22:08 ?        00:00:00 python3 /usr/lib/software-properties/software-properties-dbus
+root        2629       2  0 22:08 ?        00:00:00 [loop8]
+willpri+    2645    1219  0 22:08 ?        00:00:10 /snap/snap-store/547/usr/bin/snap-store snap://code
+willpri+    2663    1219  0 22:08 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        2912       2  0 22:08 ?        00:00:00 [loop9]
+willpri+    2983    1219  0 22:08 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+willpri+    2991    1219  0 22:08 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        3096       1  0 22:09 ?        00:00:02 /usr/libexec/fwupd/fwupd
+root        3195       1  0 22:09 ?        00:00:00 /snap/canonical-livepatch/105/canonical-livepatchd
+root        3522       1  0 22:09 ?        00:00:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+willpri+    4694    1219  0 22:10 ?        00:00:00 /usr/lib/bluetooth/obexd
+willpri+    4713    1219  0 22:11 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+willpri+    4721    1219  0 22:11 ?        00:00:03 /usr/libexec/gnome-terminal-server
+willpri+    4722    1219  0 22:11 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+willpri+    4803    4721  0 22:11 pts/0    00:00:00 bash
+willpri+    6619    1219  1 22:18 ?        00:00:36 /usr/lib/firefox/firefox -new-window
+willpri+    6665    6619  0 22:18 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20210804193234 -prefsLen 1 -prefMapSize 235964 -appdir /usr/lib/firefox/browser 6619 true socket
+willpri+    6683    6619  0 22:18 ?        00:00:01 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 251 -prefMapSize 235964 -jsInit 285716 -parentBuildID 20210804193234 -appdir /usr/lib/firefox/browser 6619 true tab
+willpri+    6725    6619  0 22:18 ?        00:00:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 5936 -prefMapSize 235964 -jsInit 285716 -parentBuildID 20210804193234 -appdir /usr/lib/firefox/browser 6619 true tab
+willpri+    6782    6619  0 22:18 ?        00:00:02 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 6924 -prefMapSize 235964 -jsInit 285716 -parentBuildID 20210804193234 -appdir /usr/lib/firefox/browser 6619 true tab
+root        6815       2  0 22:18 ?        00:00:00 [kworker/0:1-events]
+willpri+    6824    6619  0 22:18 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 7184 -prefMapSize 235964 -jsInit 285716 -parentBuildID 20210804193234 -appdir /usr/lib/firefox/browser 6619 true tab
+root        6954       2  0 22:29 ?        00:00:00 [kworker/u2:2-ext4-rsv-conversion]
+root        6974       2  0 22:37 ?        00:00:00 [kworker/u2:0-events_unbound]
+root        7024       2  0 22:45 ?        00:00:00 [kworker/u2:1-events_power_efficient]
+root        7031       2  0 22:45 ?        00:00:00 [kworker/0:0-events]
+willpri+    7512    4803  0 22:50 pts/0    00:00:00 ps -ef
