@@ -1,1 +1,2 @@
-javac PasswordGenerator.java
+default:
+	javac PasswordGenerator.java
